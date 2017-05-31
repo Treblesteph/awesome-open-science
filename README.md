@@ -101,3 +101,19 @@
 - [Software Carpentry](https://software-carpentry.org/) - teaching basic lab skills for research computing.
 - [Open Science: an Introduction](http://www.bitss.org/events/open-science-an-introduction-catalyst-short-course/) - develop the perspective, knowledge, and skills to make research more open.
 - [Foster Open Science](https://www.fosteropenscience.eu/about) - training resources for those who need to know more about Open Science.
+
+## Licence
+
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <span resource="[_:publisher]" rel="dct:publisher">
+    <span property="dct:title">Steph Smith-Unna</span></span>
+  has waived all copyright and related or neighboring rights to
+  this work.
+</p>
