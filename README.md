@@ -21,6 +21,7 @@
 - [Liber](http://www.liber2015.org.uk/) - about the role libraries have in open science.
 - [Shaking it up](https://www.digital-science.com/blog/tag/shaking-it-up/) - making the open science mandate work for you.
 - [MozFest](https://science.mozilla.org/programs/events/mozfest-2015) - citizen science, open data, learning and research.
+- [GOSH!](http://openhardware.science/about/why-gosh/) - learning about, and building open science hardware.
 
 ## Tools
 
@@ -39,6 +40,10 @@
 - [Open Access Button](https://openaccessbutton.org/) - avoid paywalls, access data.
 - [Impact Story](https://impactstory.org/) - track the online impact of your research.
 - [Open retractions](http://openretractions.com/) - check for retraction notices from any journal.
+- [Authorea](https://www.authorea.com/product) - write live documents, collaboratively online.
+- [Share LaTeX](https://www.sharelatex.com/) - the easy to use, online, collaborative LaTeX editor.
+- [Overleaf](https://www.overleaf.com/) - online LaTeX and rich text collaborative writing and publishing tool.
+- [Creative Commons](https://creativecommons.org/) - helps you legally share your knowledge and creativity.
 
 ## Publishers
 
@@ -51,6 +56,7 @@
 
 ## Communities
 
+- [Mozilla Science Lab](https://science.mozilla.org/) - making research open and accessible.
 - [Berlin Open Science Meetup](https://www.meetup.com/Berlin-Open-Science-Meetup/)
 - [BioJulia](https://gitter.im/BioJulia/home)
 - [Jupyter](http://jupyter.org/) - interactive data and scientific computing.
@@ -81,7 +87,14 @@
 - [FigShare](https://figshare.com/)
 - [Dataverse](http://dataverse.org/) - open source research data repository.
 - [DataCite](https://www.datacite.org/) - locate, identify and cite research data.
+- [Arxiv](https://arxiv.org/) - open access to pre-prints in physics, maths, computer science, quantitative biology, quantitative finance, and statistics.
+- [BioRxiv](http://biorxiv.org/) - the pre-print server for biology
+- [Academic Torrents](http://academictorrents.com/) - community maintained distributed repository for datasets and scientific knowledge.
+- [Open Science Framework](https://osf.io/) - a scholarly commons to connect the entire research cycle.
 
 ## Training
 
 - [Data Carpentry](http://www.datacarpentry.org/) - building communities and teaching universal data literacy.
+- [Software Carpentry](https://software-carpentry.org/) - teaching basic lab skills for research computing.
+- [Open Science: an Introduction](http://www.bitss.org/events/open-science-an-introduction-catalyst-short-course/) - develop the perspective, knowledge, and skills to make research more open.
+- [Foster Open Science](https://www.fosteropenscience.eu/about) - training resources for those who need to know more about Open Science.
