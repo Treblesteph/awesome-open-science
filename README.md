@@ -2,6 +2,18 @@
 
 > A list of useful resources for helping you do science in the open.
 
+## Table of Contents
+
+- [Funding](#Funding)
+- [Conferences](#Conferences)
+- [Tools](#Tools)
+- [Publishers](#Publishers)
+- [Communities](#Communities)
+- [Projects](#Projects)
+- [Repositories](#Repositories)
+- [Training](#Training)
+- [Licence](#Licence)
+
 ## Funding
 
 - [Open Science Prize](https://www.openscienceprize.org/)
