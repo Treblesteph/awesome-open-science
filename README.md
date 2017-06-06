@@ -4,15 +4,15 @@
 
 ## Table of Contents
 
-- [Funding](##Funding)
-- [Conferences](##Conferences)
-- [Tools](##Tools)
-- [Publishers](##Publishers)
-- [Communities](##Communities)
-- [Projects](##Projects)
-- [Repositories](##Repositories)
-- [Training](##Training)
-- [Licence](##Licence)
+- [Funding](https://github.com/treblesteph/awesome-open-science#funding)
+- [Conferences](https://github.com/treblesteph/awesome-open-science#conferences)
+- [Tools](https://github.com/treblesteph/awesome-open-science#tools)
+- [Publishers](https://github.com/treblesteph/awesome-open-science#publishers)
+- [Communities](https://github.com/treblesteph/awesome-open-science#communities)
+- [Projects](https://github.com/treblesteph/awesome-open-science#projects)
+- [Repositories](https://github.com/treblesteph/awesome-open-science#repositories)
+- [Training](https://github.com/treblesteph/awesome-open-science#training)
+- [Licence](https://github.com/treblesteph/awesome-open-science#licence)
 
 ## Funding
 
