@@ -4,15 +4,15 @@
 
 ## Table of Contents
 
-- [Funding](#Funding)
-- [Conferences](#Conferences)
-- [Tools](#Tools)
-- [Publishers](#Publishers)
-- [Communities](#Communities)
-- [Projects](#Projects)
-- [Repositories](#Repositories)
-- [Training](#Training)
-- [Licence](#Licence)
+- [Funding](##Funding)
+- [Conferences](##Conferences)
+- [Tools](##Tools)
+- [Publishers](##Publishers)
+- [Communities](##Communities)
+- [Projects](##Projects)
+- [Repositories](##Repositories)
+- [Training](##Training)
+- [Licence](##Licence)
 
 ## Funding
 
