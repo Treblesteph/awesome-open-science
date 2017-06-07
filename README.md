@@ -16,19 +16,19 @@
 
 ## Funding
 
-- [Open Science Prize](https://www.openscienceprize.org/)
-- [ContentMine Fellowships](http://contentmine.org/fellows)
-- [Panton Fellowships](https://pantonprinciples.org/panton-fellowships/)
+- [Open Science Prize](https://www.openscienceprize.org/) - aims to unleash the power of open content and data to advance biomedical research and its application for health benefit.
+- [ContentMine Fellowships](http://contentmine.org/fellows) - liberate scientific facts from academic journals and help to enable anyone to perform research using content mining.
+- [Panton Fellowships](https://pantonprinciples.org/panton-fellowships/) - researchers who actively promote open data in all areas of science and research.
 - [Knight-Mozilla Open News](https://opennews.org/what/fellowships/info/) - for people who love to code and want to influence the future of journalism on the web.
 
 
 ## Conferences
 
-- [Open Con](http://www.opencon2017.org/)
-- [Creative Commons Global Summit](https://summit.creativecommons.org/)
-- [WOSP](https://wosp.core.ac.uk/jcdl2016/)
-- [MozWOW](https://science.mozilla.org/programs/events/working-open-workshop-march-2017)
-- [CSV,Conf](https://csvconf.com/)
+- [Open Con](http://www.opencon2017.org/) - a platform for the next generation to learn about Open Access, Open Education, and Open Data.
+- [Creative Commons Global Summit](https://summit.creativecommons.org/) - collaborative and fun space for anyone in the world to explore the future of the Commons and sharing for users, creators, and activists.
+- [WOSP](https://wosp.core.ac.uk/jcdl2016/) - exploring the potential of text and data mining technologies to improve the process of how research is being done.
+- [MozWOW](https://science.mozilla.org/programs/events/working-open-workshop-march-2017) - set of trainings to teach open science practice and develop projects.
+- [CSV,Conf](https://csvconf.com/) - community conference for data makers everywhere.
 - [FORCE](https://www.force11.org/) - future of research communications and e-scholarship.
 - [JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny) - communicating data, management, and collaboration.
 - [OpenConCam](http://www.openconcam.org/) - about open access, open data, and open education.
@@ -40,14 +40,14 @@
 
 ## Tools
 
-- [World Brain](https://worldbrain.io/)
-- [SciHub](https://sci-hub.cc/)
-- [Quickscrape](https://github.com/ContentMine/quickscrape)
-- [Getpapers](https://github.com/ContentMine/getpapers)
-- [Open Retractions](http://openretractions.com/)
-- [Authorea](https://www.authorea.com/)
-- [Bionumbers](http://bionumbers.hms.harvard.edu/)
-- [Retraction Watch](http://retractionwatch.com/)
+- [World Brain](https://worldbrain.io/) - create, search, and share your personal web of knowledge.
+- [SciHub](https://sci-hub.cc/) - the first website in the world to provide mass and public access to research papers.
+- [Quickscrape](https://github.com/ContentMine/quickscrape) - a simple command-line tool for powerful, modern website scraping.
+- [Getpapers](https://github.com/ContentMine/getpapers) - get metadata, fulltexts or fulltext URLs of papers matching a search query.
+- [Open Retractions](http://openretractions.com/) - check for retraction notices of any journal article.
+- [Authorea](https://www.authorea.com/) - write, cite, collaborate, host data, and publish all in one place.
+- [Bionumbers](http://bionumbers.hms.harvard.edu/) - the database of useful biological numbers.
+- [Retraction Watch](http://retractionwatch.com/) - tracking retractions as a window into the scientific process.
 - [Zotero](https://www.zotero.org/) - a personal research assisstent within your browser.
 - [Hypothes.is](https://hypothes.is/) - annoate the web: discuss, collaborate, organise your research.
 - [Open Knowledge Maps](https://openknowledgemaps.org/) - visualise a research topic.
@@ -62,10 +62,10 @@
 
 ## Publishers
 
-- [F1000](http://f1000.com/)
-- [The BMJ](http://www.bmj.com/)
-- [PeerJ](https://peerj.com/)
-- [Wellcome Open Research](https://wellcomeopenresearch.org/)
+- [F1000](http://f1000.com/) - an open science publishing platform for life sciences that offers immediate publication and transparent peer review.
+- [The BMJ](http://www.bmj.com/) - international peer reviewed medical journal with open access.
+- [PeerJ](https://peerj.com/) - efficiently publishing the world's knowledge through internet-scale innovation and open access licensing to save your time, your money, and to maximize recognition of your contributions.
+- [Wellcome Open Research](https://wellcomeopenresearch.org/) - a new way for Wellcome-funded researchers to rapidly publish any results they think are worth sharing.
 - [PLOS](https://www.plos.org/) - nonprofit publisher, innovator and advocacy organisation.
 - [Royal Society Open Science](http://rsos.royalsocietypublishing.org/) - fast, open journal covering all of science, maths, and engineering.
 
@@ -73,7 +73,7 @@
 
 - [Mozilla Science Lab](https://science.mozilla.org/) - making research open and accessible.
 - [Berlin Open Science Meetup](https://www.meetup.com/Berlin-Open-Science-Meetup/)
-- [BioJulia](https://gitter.im/BioJulia/home)
+- [BioJulia](https://gitter.im/BioJulia/home) - bioinformatics and computational biology in the Julia language.
 - [Jupyter](http://jupyter.org/) - interactive data and scientific computing.
 - [ContentMine](http://contentmine.org/) - mine facts collaboratively, taking advantage of the Hargreaves Exception.
 - [Open Knowledge Foundation](https://okfn.org/about/) - international network realising the value of open data.
@@ -82,12 +82,12 @@
 
 ## Projects
 
-- [Zooniverse](https://www.zooniverse.org/about)
-- [Paperhive](https://paperhive.org/)
-- [Altmetric](https://www.altmetric.com/)
-- [Coko Foundation](https://coko.foundation/)
-- [Internet Archive](https://archive.org/index.php)
-- [Dat](https://datproject.org/)
+- [Zooniverse](https://www.zooniverse.org/about) - the world’s largest and most popular platform for people-powered research.
+- [Paperhive](https://paperhive.org/) - simplifying research communication and transforming reading into a process of collaboration.
+- [Altmetric](https://www.altmetric.com/) - tracks a range of sources to capture and collate activity, helping you to monitor and report on the attention surrounding the work you care about.
+- [Coko Foundation](https://coko.foundation/) - evolve how knowledge is created, produced and reported.
+- [Internet Archive](https://archive.org/index.php) - library of millions of free books, movies, software, music, websites, and more.
+- [Dat](https://datproject.org/) - distributed data sharing tool.
 - [COAR](https://www.coar-repositories.org/about/) - open access repository network.
 - [OpenAIRE](https://www.openaire.eu) - network of open repositories, archives, and journals.
 - [Bionode](http://www.bionode.io/) - modular and universal bioinformatics.
@@ -98,8 +98,8 @@
 
 ## Repositories
 
-- [DryadLab](http://datadryad.org/)
-- [FigShare](https://figshare.com/)
+- [DryadLab](http://datadryad.org/) - curated general-purpose repository that makes the data underlying scientific publications discoverable, freely reusable, and citable.
+- [FigShare](https://figshare.com/) - helps academic institutions store, share and manage all of their research outputs.
 - [Dataverse](http://dataverse.org/) - open source research data repository.
 - [DataCite](https://www.datacite.org/) - locate, identify and cite research data.
 - [Arxiv](https://arxiv.org/) - open access to pre-prints in physics, maths, computer science, quantitative biology, quantitative finance, and statistics.
