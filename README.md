@@ -37,6 +37,7 @@
 - [Shaking it up](https://www.digital-science.com/blog/tag/shaking-it-up/) - making the open science mandate work for you.
 - [MozFest](https://science.mozilla.org/programs/events/mozfest-2015) - citizen science, open data, learning and research.
 - [GOSH!](http://openhardware.science/about/why-gosh/) - learning about, and building open science hardware.
+- [Open Science Workflow](https://www.utrechtsummerschool.nl/courses/science/open-science-and-scholarship-changing-your-research-workflow) - an introduction in Open Science for researchers of all disciplines.
 
 ## Tools
 
