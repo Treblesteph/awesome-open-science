@@ -107,6 +107,7 @@
 - [BioRxiv](http://biorxiv.org/) - the pre-print server for biology
 - [Academic Torrents](http://academictorrents.com/) - community maintained distributed repository for datasets and scientific knowledge.
 - [Open Science Framework](https://osf.io/) - a scholarly commons to connect the entire research cycle.
+- [Zenodo](https://zenodo.org/) - open repository for the storage of research material output and doi assignation.
 
 ## Training
 
