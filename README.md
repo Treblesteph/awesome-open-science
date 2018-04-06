@@ -115,6 +115,7 @@
 - [Data Carpentry](http://www.datacarpentry.org/) - building communities and teaching universal data literacy.
 - [Software Carpentry](https://software-carpentry.org/) - teaching basic lab skills for research computing.
 - [Open Science: an Introduction](http://www.bitss.org/events/open-science-an-introduction-catalyst-short-course/) - develop the perspective, knowledge, and skills to make research more open.
+- [Open science training handbook](https://legacy.gitbook.com/book/open-science-training-handbook/book/details) - Open handbook supporting educators of Open Science, including methods, techniques, and practices.
 - [Foster Open Science](https://www.fosteropenscience.eu/about) - training resources for those who need to know more about Open Science.
 
 ## Licence
