@@ -60,6 +60,7 @@
 - [Share LaTeX](https://www.sharelatex.com/) - the easy to use, online, collaborative LaTeX editor.
 - [Overleaf](https://www.overleaf.com/) - online LaTeX and rich text collaborative writing and publishing tool.
 - [Creative Commons](https://creativecommons.org/) - helps you legally share your knowledge and creativity.
+- [Unpaywall](https://unpaywall.org/):browser plugin that let you download legal versions of scientific papers.
 
 ## Publishers
 
