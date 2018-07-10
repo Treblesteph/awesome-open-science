@@ -16,6 +16,7 @@
 
 ## Funding
 
+- [Open Grants](https://www.ogrants.org/) - a list of grants that are openly available on the web. These grants can help with learning grantsmanship, understanding particular funders and their programs, and communicating science.
 - [Open Science Prize](https://www.openscienceprize.org/) - aims to unleash the power of open content and data to advance biomedical research and its application for health benefit.
 - [ContentMine Fellowships](http://contentmine.org/fellows) - liberate scientific facts from academic journals and help to enable anyone to perform research using content mining.
 - [Panton Fellowships](https://pantonprinciples.org/panton-fellowships/) - researchers who actively promote open data in all areas of science and research.
