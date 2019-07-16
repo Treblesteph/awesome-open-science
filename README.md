@@ -81,6 +81,7 @@
 - [ContentMine](http://contentmine.org/) - mine facts collaboratively, taking advantage of the Hargreaves Exception.
 - [Open Knowledge Foundation](https://okfn.org/about/) - international network realising the value of open data.
 - [ROpenSci](https://ropensci.org/) - access data repositories from the R statistical programming environment.
+- [Open Science MOOC](https://opensciencemooc.eu/) - community organisation for the development of an Massive Open Online Community for Open Science.
 
 
 ## Projects
